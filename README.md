@@ -28,17 +28,7 @@ This project compresses a text file by replacing characters with binary Huffman 
 
 ---
 
-## 📂 File Structure
-file-compressor/
-│
-├── main.cpp # All code (can be split into modules)
-├── input.txt # Original file (user provides)
-├── codes.txt # Saved Huffman code mappings
-├── compressed.bin # Compressed binary file
-├── decompressed.txt # Recovered output file
-└── README.md # This file
 
----
 
 ## ⚙️ How It Works
 
